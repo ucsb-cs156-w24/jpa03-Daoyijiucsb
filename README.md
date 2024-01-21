@@ -1,6 +1,6 @@
 # STARTER-jpa03
 
-Running at: [<https://daoyi-jpa03.dokku-13.cs.ucsb.edu>](https://jpa03-daoyi.dokku-13.cs.ucsb.edu/)
+Running at: [[<https://daoyi-jpa03.dokku-13.cs.ucsb.edu>](https://jpa03-daoyi.dokku-13.cs.ucsb.edu/)](https://jpa03-daoyi.dokku-13.cs.ucsb.edu/)
 
 # Configuring GitHub Pages for the documentation
 
